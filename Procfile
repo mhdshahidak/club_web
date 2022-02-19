@@ -1,0 +1,1 @@
+web: gunicorn clubfactory.wsgi --log-file -
